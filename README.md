@@ -1,4 +1,4 @@
-# Twangodev Tap
+# twangodev tap
 
 ## How do I install these formulae?
 
